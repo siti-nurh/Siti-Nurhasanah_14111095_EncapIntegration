@@ -1,0 +1,6 @@
+Berikut pendapat tentang perbedaan kelas abstrak dengan kelas yang dienkapsulasi dari sisi data hidding:
+Klass Abstrak(Klass Abstraksi) adalah proses untuk menyembunyikan detail proses yang dilakukan. 
+Abstraks tidak bisa di instansiasi, 
+Abstrak method adalah sebuah method yang tidak memiliki implementasi tujuannya untuk mensfesipikasi
+sedangkan Enkapsulasi (Pembungkusan) tidak boleh sembarang diakses oleh klass.
+di enkapsulasi ada alat atau method yang dapat diakses dari data yang di bungkus.
